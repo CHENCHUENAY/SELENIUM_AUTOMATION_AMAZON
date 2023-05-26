@@ -1,8 +1,8 @@
+                               # SELENIUM_AUTOMATION_AMAZON
 
 
-        # SELENIUM_AUTOMATION_AMAZON
 
-Project Name : AMAZON_AUTOMATION
+Project Name : AMAZON_TASK_AUTOMATION
 Test Senario : login and Purchace item in Amazon website
 Test cases : open URL > Login > Search > Select item > Add to cart > Checkout > payment
 
